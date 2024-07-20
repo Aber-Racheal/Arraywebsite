@@ -27,7 +27,7 @@ Images: Utilized custom and stock images for visual elements.
 
 Usage
 Clone the repository:
-git clone https://github.com/your-Aber-Racheal/cyb-org-website.git
+git clone https://github.com/Aber-Racheal/cyb-org-website.git
 Navigate to the project directory:
 
 cd cyb-org-website
