@@ -27,13 +27,15 @@ Images: Utilized custom and stock images for visual elements.
 
 Usage
 Clone the repository:
-git clone https://github.com/your-username/cyb-org-website.git
+git clone https://github.com/your-Aber-Racheal/cyb-org-website.git
 Navigate to the project directory:
 
 cd cyb-org-website
 Open index.html in your preferred web browser to view the website locally.
 
 
+
+Alternatively, you view the website here:https://arraywebsite.vercel.app/
 Goals
 
 Improve proficiency in HTML and CSS.
